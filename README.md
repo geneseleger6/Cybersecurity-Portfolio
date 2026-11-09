@@ -18,3 +18,14 @@ My interests include network security, threat detection, Windows Server administ
 ### Portfolio Projects
 1. Windows Server Administration Lab
 2. Network Security and Virtualization Lab
+### Project 1: Windows Server Administration Lab
+
+**Description:** In this project, I configured and managed a Windows Server environment using Active Directory Domain Services (AD DS), DNS, DHCP, and Group Policy.
+
+**Tasks Completed:**
+- Created and managed Active Directory users and groups.
+- Configured DNS and DHCP services.
+- Applied Group Policy settings.
+- Practiced Windows Server administration and troubleshooting.
+
+**Skills Demonstrated:** Windows Server, Active Directory, Network Administration, Group Policy, and Troubleshooting.
