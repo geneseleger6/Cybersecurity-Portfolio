@@ -29,3 +29,14 @@ My interests include network security, threat detection, Windows Server administ
 - Practiced Windows Server administration and troubleshooting.
 
 **Skills Demonstrated:** Windows Server, Active Directory, Network Administration, Group Policy, and Troubleshooting.
+### Project 2: Network Security & Virtualization Lab
+
+**Description:** Through my cybersecurity and networking coursework, I gained hands-on experience with network configuration, traffic analysis, and virtual machine environments.
+
+**Tasks Completed:**
+- Practiced network configuration using Cisco Packet Tracer.
+- Analyzed network traffic using Wireshark.
+- Created and managed virtual machines using VMware.
+- Practiced Linux system administration and troubleshooting.
+
+**Skills Demonstrated:** Network Security, TCP/IP, Virtualization, Linux Administration, Network Analysis, and Troubleshooting.
